@@ -1,6 +1,7 @@
 === Twenty Twenty-Five ===
 modificando texto
 introduciendo segunda línea
+introduciendo tercera línea
 Contributors: wordpressdotorg
 Requires at least: 6.7
 Tested up to: 6.7
